@@ -1,0 +1,17 @@
+body {
+    background-color: #B9E3C6;
+}
+
+.overtime {
+	font-weight: 900;
+	background-color: hsl(348, 100%, 61%) !important;
+	color: white !important;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+#playto {
+  transition: all 0.5s easeInQuint;
+}
